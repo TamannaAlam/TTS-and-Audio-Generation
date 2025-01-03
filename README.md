@@ -22,10 +22,12 @@ This project focuses on implementing Text-to-Speech (TTS) and audio generation t
 4. Generated audio files will be saved in the samples/ directory
 
 Examples
+
 Sample outputs are available in the samples folder. You can listen to generated audio clips to understand the project outcomes.
 
 Technologies Used
-Programming Language: Python
-Libraries: requests, torch, librosa
-APIs: AI-based TTS APIs for text-to-speech conversion
-Models: Pre-trained TTS models for speech synthesis
+
+  Programming Language: Python
+  Libraries: requests, torch, librosa
+  APIs: AI-based TTS APIs for text-to-speech conversion
+  Models: Pre-trained TTS models for speech synthesis
